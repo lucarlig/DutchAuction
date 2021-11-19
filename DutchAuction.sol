@@ -35,7 +35,7 @@ contract DutchAuction {
 
     // do checking that start is smaller than end date and reserver price is lower than initial
     function initAuction(uint256 _initialPrice, uint256 _reservePrice, uint256 _startDate, uint256 _endDate) {
-
+            
     }
 
     function stopAuction() {
